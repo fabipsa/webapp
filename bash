@@ -1,0 +1,4 @@
+/proyecto-peliculas
+    ├── index.html
+    ├── styles.css
+    └── script.js
